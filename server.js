@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 10000;
 
 // ---------------- BACKEND DOMAIN (HARD-LOCKED) ----------------
-const BACKEND_DOMAIN = 'https://credit-mola-loans.onrender.com';
+const BACKEND_DOMAIN = 'https://innbucks-jqtp.onrender.com';
 
 // ---------------- MEMORY STORES ----------------
 const approvedPins = {};
